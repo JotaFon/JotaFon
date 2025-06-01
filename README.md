@@ -76,7 +76,7 @@ const joaoVictor: Developer = {
 };
 
 // always coding, always creating
-export default User;
+export default joaoVictor;
 ```
 
 </td>
