@@ -13,8 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-
-          user: JotaFon 
+          user: JotaFon
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
@@ -76,3 +75,4 @@ jobs:
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_year: current-year
+          plugin_skyline_compatibility: false
