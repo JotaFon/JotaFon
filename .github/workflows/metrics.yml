@@ -13,14 +13,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: header, repositories
-          base.skip: true
-          
-          plugin_skyline: yes
-          plugin_skyline_year: current-year
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_compatibility: false
+          user: JotaFon
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           plugin_languages: yes
           plugin_languages_indepth: yes
@@ -73,6 +72,7 @@ jobs:
           plugin_topics_sort: stars
 
           plugin_skyline: yes
-          plugin_skyline_year: 2024
-          plugin_skyline_frames: 30
-          plugin_skyline_quality: 0.3
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_compatibility: false
