@@ -18,11 +18,11 @@
 <br><strong>Redux</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="HTML" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="CSS" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
 <br><strong>CSS3</strong>
 </td>
 </tr>
@@ -33,9 +33,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="70">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70">
 
-**Node.js • Java • React Native • Flutter • Git**
+**Node.js • Java • React Native • Flutter**
 
 </div>
 
