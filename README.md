@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ## Main Technologies
@@ -32,9 +31,12 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="70">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="70">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70">
 
-**Node.js • Java • React Native • Flutter**
+**Node.js • Java • React Native • Flutter • NestJS • Docker**
 
 </div>
 
@@ -62,8 +64,8 @@ const joaoVictor: Developer = {
   
   skills: {
     mastered: ["JavaScript", "React", "CSS3"],
-    learning: ["Node.js", "Java", "TypeScript"],
-    exploring: ["React Native", "Flutter", "UI/UX Design"],
+    learning: ["Node.js", "Java", "TypeScript", "NestJS"],
+    exploring: ["React Native", "Flutter", "UI/UX Design", "Docker"],
     tools: ["Git", "VS Code", "Figma", "Git Lab", "Postman"]
   },
   
@@ -71,7 +73,8 @@ const joaoVictor: Developer = {
     "🎯 React ecosystem mastery",
     "🔧 Backend development journey", 
     "🎨 UI/UX principles & design",
-    "📱 Mobile development exploration"
+    "📱 Mobile development exploration",
+    "🐳 DevOps & containerization"
   ]
 };
 
