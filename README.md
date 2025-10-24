@@ -27,16 +27,17 @@
 </tr>
 </table>
 
-### Studying & Exploring
+### others
 
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="70">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="70">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70">
 
-**Node.js • Java • React Native • Flutter • NestJS • Docker**
+**Node.js • Typescript • postgreSQL • React Native • Flutter • NestJS • Docker**
 
 </div>
 
@@ -98,14 +99,14 @@ export default joaoVictor;
 **Front-end**  
 `████████████████████████████████░░░░░░░░`
 
+**Back-end**  
+`██████████████████████████░░░░░░░░░░░░░░`
+
 **UI/UX Design**  
 `████████████████░░░░░░░░░░░░░░░░░░░░░░░░`
 
 **Mobile Development**  
 `████████████████░░░░░░░░░░░░░░░░░░░░░░░░`
-
-**Back-end**  
-`██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
 </div>
 
