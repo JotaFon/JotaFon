@@ -60,13 +60,13 @@ interface Developer {
 
 const joaoVictor: Developer = {
   name: "João Victor Fonseca",
-  role: "Frontend Developer & UI/UX Explorer",
+  role: "Developer & UI/UX Explorer",
   location: "🇧🇷 Brasil",
   
   skills: {
     mastered: ["JavaScript", "React", "CSS3"],
-    learning: ["Node.js", "Java", "TypeScript", "NestJS"],
-    exploring: ["React Native", "Flutter", "UI/UX Design", "Docker"],
+    learning: ["Node.js", "typescript", "NestJS"],
+    exploring: ["React Native", "PostgreSQL" "Flutter", "UI/UX Design", "Docker"],
     tools: ["Git", "VS Code", "Figma", "Git Lab", "Postman"]
   },
   
