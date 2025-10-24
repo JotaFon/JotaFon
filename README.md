@@ -66,7 +66,7 @@ const joaoVictor: Developer = {
   skills: {
     mastered: ["JavaScript", "React", "CSS3"],
     learning: ["Node.js", "typescript", "NestJS"],
-    exploring: ["React Native", "PostgreSQL" "Flutter", "UI/UX Design", "Docker"],
+    exploring: ["React Native", "PostgreSQL" "Flutter", "Docker"],
     tools: ["Git", "VS Code", "Figma", "Git Lab", "Postman"]
   },
   
